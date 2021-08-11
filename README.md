@@ -1,7 +1,9 @@
 # Ruwan Edu Website
 
 When I was actively working on projects for Webacies, I created this Responsive Education Center Website for a organisation called Rfern - also pro-bono.
-The source code and images added are for presentational (portfolio) purposes only as I did not include the functional scripting needded for email services, marketing, analytics etc. - that I kept to myself! Happy Coding :D
+The source code and images added are for presentational (portfolio) purposes only as I did not include the functional scripting needded for email services, marketing, analytics etc. - that I kept to myself! 
+
+In the beginning, I hardcoded everything in HTML - but if I had to remake this website I would use React or a templating language instead of pure HTML. Happy Coding :D
  
 ## Preview
 ### Desktop View:
